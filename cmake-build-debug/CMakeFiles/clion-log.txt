@@ -1,4 +1,4 @@
-/home/collin/clion/clion-2018.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/collin/machine_learning_projects/spamfilter
+/home/collin/intellij/clion-2018.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/collin/machine_learning/spamfilter
 -- The C compiler identification is GNU 5.4.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/collin/machine_learning_projects/spamfilter/cmake-build-debug
+-- Build files have been written to: /home/collin/machine_learning/spamfilter/cmake-build-debug

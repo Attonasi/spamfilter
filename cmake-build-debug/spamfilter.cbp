@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/collin/machine_learning_projects/spamfilter/cmake-build-debug"/>
+				<Option working_dir="/home/collin/machine_learning/spamfilter/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/collin/machine_learning_projects/spamfilter/cmake-build-debug"/>
+				<Option working_dir="/home/collin/machine_learning/spamfilter/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/collin/machine_learning_projects/spamfilter/cmake-build-debug"/>
+				<Option working_dir="/home/collin/machine_learning/spamfilter/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spamfilter">
-				<Option output="/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/spamfilter" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/collin/machine_learning_projects/spamfilter/cmake-build-debug"/>
+				<Option output="/home/collin/machine_learning/spamfilter/cmake-build-debug/spamfilter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/collin/machine_learning/spamfilter/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -51,15 +51,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 spamfilter"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 spamfilter"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="spamfilter/fast">
-				<Option output="/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/spamfilter" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/collin/machine_learning_projects/spamfilter/cmake-build-debug"/>
+				<Option output="/home/collin/machine_learning/spamfilter/cmake-build-debug/spamfilter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/collin/machine_learning/spamfilter/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -71,17 +71,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 spamfilter/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 spamfilter/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/collin/machine_learning/spamfilter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/collin/machine_learning_projects/spamfilter/trainer_main.c">
+		<Unit filename="/home/collin/machine_learning/spamfilter/trainer_main.c">
 			<Option target="spamfilter"/>
 		</Unit>
-		<Unit filename="/home/collin/machine_learning_projects/spamfilter/CMakeLists.txt">
+		<Unit filename="/home/collin/machine_learning/spamfilter/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

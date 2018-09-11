@@ -10,33 +10,33 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/3.12.1/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_56262/fast"
-/usr/bin/make -f CMakeFiles/cmTC_56262.dir/build.make CMakeFiles/cmTC_56262.dir/build
-make[1]: Entering directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_56262.dir/testCCompiler.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_56262.dir/testCCompiler.c.o   -c /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_56262
-/home/collin/clion/clion-2018.2.3/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56262.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_56262.dir/testCCompiler.c.o  -o cmTC_56262 
-make[1]: Leaving directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_a6d32/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a6d32.dir/build.make CMakeFiles/cmTC_a6d32.dir/build
+make[1]: Entering directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a6d32.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_a6d32.dir/testCCompiler.c.o   -c /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_a6d32
+/home/collin/intellij/clion-2018.2.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a6d32.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_a6d32.dir/testCCompiler.c.o  -o cmTC_a6d32 
+make[1]: Leaving directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f69bd/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f69bd.dir/build.make CMakeFiles/cmTC_f69bd.dir/build
-make[1]: Entering directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o   -c /home/collin/clion/clion-2018.2.3/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_f69bd
-/home/collin/clion/clion-2018.2.3/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f69bd.dir/link.txt --verbose=1
-/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o  -o cmTC_f69bd 
+Run Build Command:"/usr/bin/make" "cmTC_a35eb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a35eb.dir/build.make CMakeFiles/cmTC_a35eb.dir/build
+make[1]: Entering directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o   -c /home/collin/intellij/clion-2018.2.1/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_a35eb
+/home/collin/intellij/clion-2018.2.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a35eb.dir/link.txt --verbose=1
+/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o  -o cmTC_a35eb 
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -46,23 +46,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_f69bd' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc4juf69.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_f69bd /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a35eb' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccydHp4u.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_a35eb /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_f69bd/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_f69bd.dir/build.make CMakeFiles/cmTC_f69bd.dir/build]
-  ignore line: [make[1]: Entering directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o   -c /home/collin/clion/clion-2018.2.3/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_f69bd]
-  ignore line: [/home/collin/clion/clion-2018.2.3/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f69bd.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o  -o cmTC_f69bd ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_a35eb/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_a35eb.dir/build.make CMakeFiles/cmTC_a35eb.dir/build]
+  ignore line: [make[1]: Entering directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o   -c /home/collin/intellij/clion-2018.2.1/bin/cmake/linux/share/cmake-3.12/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_a35eb]
+  ignore line: [/home/collin/intellij/clion-2018.2.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a35eb.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o  -o cmTC_a35eb ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -72,13 +72,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_f69bd' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc4juf69.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_f69bd /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a35eb' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccydHp4u.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_a35eb /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc4juf69.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccydHp4u.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -96,7 +96,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_f69bd] ==> ignore
+    arg [cmTC_a35eb] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -108,7 +108,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_f69bd.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_a35eb.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -136,17 +136,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_34c9c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_34c9c.dir/build.make CMakeFiles/cmTC_34c9c.dir/build
-make[1]: Entering directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_34c9c.dir/feature_tests.c.o
-/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_34c9c.dir/feature_tests.c.o   -c /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_34c9c
-/home/collin/clion/clion-2018.2.3/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_34c9c.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_34c9c.dir/feature_tests.c.o  -o cmTC_34c9c 
-make[1]: Leaving directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_8b6a9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8b6a9.dir/build.make CMakeFiles/cmTC_8b6a9.dir/build
+make[1]: Entering directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8b6a9.dir/feature_tests.c.o
+/usr/bin/cc   -std=c11 -o CMakeFiles/cmTC_8b6a9.dir/feature_tests.c.o   -c /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_8b6a9
+/home/collin/intellij/clion-2018.2.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8b6a9.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_8b6a9.dir/feature_tests.c.o  -o cmTC_8b6a9 
+make[1]: Leaving directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -156,17 +156,17 @@ make[1]: Leaving directory '/home/collin/machine_learning_projects/spamfilter/cm
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8e447/fast"
-/usr/bin/make -f CMakeFiles/cmTC_8e447.dir/build.make CMakeFiles/cmTC_8e447.dir/build
-make[1]: Entering directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_8e447.dir/feature_tests.c.o
-/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_8e447.dir/feature_tests.c.o   -c /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_8e447
-/home/collin/clion/clion-2018.2.3/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8e447.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_8e447.dir/feature_tests.c.o  -o cmTC_8e447 
-make[1]: Leaving directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_6275e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6275e.dir/build.make CMakeFiles/cmTC_6275e.dir/build
+make[1]: Entering directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6275e.dir/feature_tests.c.o
+/usr/bin/cc   -std=c99 -o CMakeFiles/cmTC_6275e.dir/feature_tests.c.o   -c /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_6275e
+/home/collin/intellij/clion-2018.2.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6275e.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_6275e.dir/feature_tests.c.o  -o cmTC_6275e 
+make[1]: Leaving directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -176,17 +176,17 @@ make[1]: Leaving directory '/home/collin/machine_learning_projects/spamfilter/cm
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_6fb2d/fast"
-/usr/bin/make -f CMakeFiles/cmTC_6fb2d.dir/build.make CMakeFiles/cmTC_6fb2d.dir/build
-make[1]: Entering directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_6fb2d.dir/feature_tests.c.o
-/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_6fb2d.dir/feature_tests.c.o   -c /home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_6fb2d
-/home/collin/clion/clion-2018.2.3/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6fb2d.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_6fb2d.dir/feature_tests.c.o  -o cmTC_6fb2d 
-make[1]: Leaving directory '/home/collin/machine_learning_projects/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_eb008/fast"
+/usr/bin/make -f CMakeFiles/cmTC_eb008.dir/build.make CMakeFiles/cmTC_eb008.dir/build
+make[1]: Entering directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_eb008.dir/feature_tests.c.o
+/usr/bin/cc   -std=c90 -o CMakeFiles/cmTC_eb008.dir/feature_tests.c.o   -c /home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_eb008
+/home/collin/intellij/clion-2018.2.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eb008.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_eb008.dir/feature_tests.c.o  -o cmTC_eb008 
+make[1]: Leaving directory '/home/collin/machine_learning/spamfilter/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
