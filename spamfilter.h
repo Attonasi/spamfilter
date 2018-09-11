@@ -3,14 +3,15 @@
 
 
 #define BUFFER_SIZE 1000
-#define MAX_NUM_FILES 100
+#define MAX_NUM_FILES 500
 #define MAX_EMAIL_WORDS 500
 #define MAX_LIBRARY_WORDS 1000
 
-#define DATA_DIRECTORY_ARG_POS 1
+#define DATA_DIRECTORY_SPAM_POS 1
+#define DATA_DIRECTORY_HAM_POS 2
 
 
-typedef struct dirent Dirent_t
+typedef struct dirent Dirent_t;
 
 typedef struct {
     char* word;

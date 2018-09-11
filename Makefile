@@ -9,9 +9,12 @@ targets = spamfilter spamtrainer
 all: $(targets)
 
 spamtrainer: spamfilter.h $(trainer_files)
-    gcc -o spamtrainer $(trainer_files) $(cFlags)
+	gcc -o spamtrainer $(trainer_files) $(cFlags)
 
 spamfilter: spamfilter.h $(filter_files)
-    gcc -o spamfilter $(filter_files) $(cFlags)
+	gcc -o spamfilter $(filter_files) $(cFlags)
+
+run_trainer: spamtrainer
+	./spamtrainer ./data/spam ./data/ham
 
 clean: rm $(targets)

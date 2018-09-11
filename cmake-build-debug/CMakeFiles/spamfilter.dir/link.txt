@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/spamfilter.dir/trainer_main.c.o  -o spamfilter 

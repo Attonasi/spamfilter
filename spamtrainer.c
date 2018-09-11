@@ -6,7 +6,7 @@
 #include "spamfilter.h"
 
 
-int getFiles(const char* directory, char** files){
+int get_files(const char* directory, char** files){
 
     Dirent_t* direntPtr;
     DIR* inputFilePtr = opendir(directory);
