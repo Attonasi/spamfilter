@@ -3,7 +3,7 @@
 #include <dirent.h>
 #include <string.h>
 
-#include "spamtrainer.h"
+#include "spamfilter.h"
 
 int get_files(const char* directory, char** files){
 
@@ -50,6 +50,8 @@ Word* add_word(char* word, int index, int spam_or_ham){
     w->index = index;
     w->ham_num_emails = 0;
     w->spam_num_emails = 0;
+    w->spam_ratio = 0;
+    w->ham_ratio = 0;
 
     if(spam_or_ham){
         w->spam_count = 1;
@@ -63,15 +65,15 @@ Word* add_word(char* word, int index, int spam_or_ham){
     return w;
 }
 
-void lib_update_word(Library* lib, int index, int spam_or_ham)
+void lib_update_word(Word* word, int spam_or_ham)
 {
     if(spam_or_ham)
     {
-        lib->library[index]->spam_count++;
+        word->spam_count++;
     } else {
-        lib->library[index]->ham_count++;
+        word->ham_count++;
     }
-    lib->library[index]->email_flag = 1;
+    word->email_flag = 1;
 }
 
 void lib_update_num_emails(Word* word, int spam_or_ham)
@@ -85,6 +87,10 @@ void lib_update_num_emails(Word* word, int spam_or_ham)
         }
         word->email_flag = 0;
     }
+    int spam_ham_total = word->ham_num_emails + word->spam_num_emails;
+
+    word->spam_ratio = (float)word->spam_num_emails / spam_ham_total;
+    word->ham_ratio = (float)word->ham_num_emails / spam_ham_total;
 }
 
 void lib_contains(Library* lib, char* w)
@@ -100,8 +106,8 @@ void lib_contains(Library* lib, char* w)
 }
 
 void print_word(Word* word){
-    printf("Index: %d Spam Count: %d Num Spam Emails: %d Ham Count: %d Num Ham Emails: %d Word: %s \n",
-            word->index, word->spam_count, word->spam_num_emails, word->ham_count, word->ham_num_emails,
+    printf("Index: %d Spam Ratio: %.3f Num Spam Emails: %d Ham Ratio: %.3f Num Ham Emails: %d Word: %s \n",
+            word->index, word->spam_ratio, word->spam_num_emails, word->ham_ratio, word->ham_num_emails,
             word->word);
 }
 
@@ -129,7 +135,7 @@ void read_email(char* email, Library* lib, int spam_or_ham)
 
             if(lib->lib_compare)
             {
-                lib_update_word(lib, lib->lib_compare, spam_or_ham);
+                lib_update_word(lib->library[lib->lib_compare], spam_or_ham);
             } else {
                 lib->library[lib->num_lib_words] = add_word(token, lib->num_lib_words, spam_or_ham);
                 lib->num_lib_words++;
@@ -153,9 +159,9 @@ void write_library(Library* lib, const char* path){
     FILE* fp = fopen(path, "w");
 
     for(int i = 0; i < lib->num_lib_words; i++){
-        fprintf(fp, "%d, %d, %d, %d, %d, %d, %s\n", lib->library[i]->index, lib->library[i]->spam_count,
+        fprintf(fp, "%d,%d,%d,%d,%d,%.3f,%.3f,%s\n", lib->library[i]->index, lib->library[i]->spam_count,
                 lib->library[i]->spam_num_emails, lib->library[i]->ham_count, lib->library[i]->ham_num_emails,
-                lib->library[i]->email_flag, lib->library[i]->word);
+                lib->library[i]->spam_ratio, lib->library[i]->ham_ratio, lib->library[i]->word);
     }
 
     fclose(fp);

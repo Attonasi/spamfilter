@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/spamfilter.dir/trainer_main.c.o"
+  "CMakeFiles/spamfilter.dir/trainer/trainer_main.c.o"
+  "CMakeFiles/spamfilter.dir/trainer/spamfilter.c.o"
+  "CMakeFiles/spamfilter.dir/filter_main.c.o"
   "spamfilter.pdb"
   "spamfilter"
 )

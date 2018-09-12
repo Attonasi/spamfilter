@@ -123,32 +123,86 @@ spamfilter/fast:
 	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/build
 .PHONY : spamfilter/fast
 
-trainer_main.o: trainer_main.c.o
+filter_main.o: filter_main.c.o
 
-.PHONY : trainer_main.o
+.PHONY : filter_main.o
 
 # target to build an object file
-trainer_main.c.o:
-	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer_main.c.o
-.PHONY : trainer_main.c.o
+filter_main.c.o:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/filter_main.c.o
+.PHONY : filter_main.c.o
 
-trainer_main.i: trainer_main.c.i
+filter_main.i: filter_main.c.i
 
-.PHONY : trainer_main.i
+.PHONY : filter_main.i
 
 # target to preprocess a source file
-trainer_main.c.i:
-	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer_main.c.i
-.PHONY : trainer_main.c.i
+filter_main.c.i:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/filter_main.c.i
+.PHONY : filter_main.c.i
 
-trainer_main.s: trainer_main.c.s
+filter_main.s: filter_main.c.s
 
-.PHONY : trainer_main.s
+.PHONY : filter_main.s
 
 # target to generate assembly for a file
-trainer_main.c.s:
-	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer_main.c.s
-.PHONY : trainer_main.c.s
+filter_main.c.s:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/filter_main.c.s
+.PHONY : filter_main.c.s
+
+trainer/spamfilter.o: trainer/spamfilter.c.o
+
+.PHONY : trainer/spamfilter.o
+
+# target to build an object file
+trainer/spamfilter.c.o:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer/spamfilter.c.o
+.PHONY : trainer/spamfilter.c.o
+
+trainer/spamfilter.i: trainer/spamfilter.c.i
+
+.PHONY : trainer/spamfilter.i
+
+# target to preprocess a source file
+trainer/spamfilter.c.i:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer/spamfilter.c.i
+.PHONY : trainer/spamfilter.c.i
+
+trainer/spamfilter.s: trainer/spamfilter.c.s
+
+.PHONY : trainer/spamfilter.s
+
+# target to generate assembly for a file
+trainer/spamfilter.c.s:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer/spamfilter.c.s
+.PHONY : trainer/spamfilter.c.s
+
+trainer/trainer_main.o: trainer/trainer_main.c.o
+
+.PHONY : trainer/trainer_main.o
+
+# target to build an object file
+trainer/trainer_main.c.o:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer/trainer_main.c.o
+.PHONY : trainer/trainer_main.c.o
+
+trainer/trainer_main.i: trainer/trainer_main.c.i
+
+.PHONY : trainer/trainer_main.i
+
+# target to preprocess a source file
+trainer/trainer_main.c.i:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer/trainer_main.c.i
+.PHONY : trainer/trainer_main.c.i
+
+trainer/trainer_main.s: trainer/trainer_main.c.s
+
+.PHONY : trainer/trainer_main.s
+
+# target to generate assembly for a file
+trainer/trainer_main.c.s:
+	$(MAKE) -f CMakeFiles/spamfilter.dir/build.make CMakeFiles/spamfilter.dir/trainer/trainer_main.c.s
+.PHONY : trainer/trainer_main.c.s
 
 # Help Target
 help:
@@ -159,9 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... spamfilter"
-	@echo "... trainer_main.o"
-	@echo "... trainer_main.i"
-	@echo "... trainer_main.s"
+	@echo "... filter_main.o"
+	@echo "... filter_main.i"
+	@echo "... filter_main.s"
+	@echo "... trainer/spamfilter.o"
+	@echo "... trainer/spamfilter.i"
+	@echo "... trainer/spamfilter.s"
+	@echo "... trainer/trainer_main.o"
+	@echo "... trainer/trainer_main.i"
+	@echo "... trainer/trainer_main.s"
 .PHONY : help
 
 
