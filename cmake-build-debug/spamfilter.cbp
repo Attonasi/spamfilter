@@ -78,7 +78,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/collin/machine_learning/spamfilter/trainer_main.c">
+		<Unit filename="/home/collin/machine_learning/spamfilter/filter_main.c">
+			<Option target="spamfilter"/>
+		</Unit>
+		<Unit filename="/home/collin/machine_learning/spamfilter/spamfilter.h">
+			<Option target="spamfilter"/>
+		</Unit>
+		<Unit filename="/home/collin/machine_learning/spamfilter/trainer/spamfilter.c">
+			<Option target="spamfilter"/>
+		</Unit>
+		<Unit filename="/home/collin/machine_learning/spamfilter/trainer/trainer_main.c">
 			<Option target="spamfilter"/>
 		</Unit>
 		<Unit filename="/home/collin/machine_learning/spamfilter/CMakeLists.txt">

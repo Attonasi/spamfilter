@@ -3,7 +3,7 @@
 #include <dirent.h>
 #include <string.h>
 
-#include "spamtrainer.h"
+#include "spamfilter.h"
 
 int main(int argc, char const *argv[]) {
 
@@ -19,11 +19,17 @@ int main(int argc, char const *argv[]) {
     int num_spam_files = get_files(spam_dir, spam_files);
     int num_ham_files = get_files(ham_dir, ham_files);
 
+//    char option;
+
     for(int i = 0; i < MAX_NUM_FILES; i++){
         read_email(spam_files[i], lib, SPAM);
         read_email(ham_files[i], lib, HAM);
         printf("Number of Spam Files: %d Number of Ham Files: %d Num_lib_words: %d i: %d\n", num_spam_files, num_ham_files, lib->num_lib_words, i);
     }
+
+//    read_email(spam_files[0], lib, SPAM);
+//    print_lib(lib);
+//    printf("Number of Spam Files: %d Number of Ham Files: %d Num_lib_words: %d \n", num_spam_files, num_ham_files, lib->num_lib_words);
 
     write_library(lib, lib_path);
 //    print_lib(lib);
