@@ -1,9 +1,8 @@
 #ifndef SPAMFILTER_H
 #define SPAMFILTER_H
 
-//#define BUFFER_SIZE 1000
 #define MAX_NUM_FILES 500
-//#define MAX_EMAIL_WORDS 1000
+#define TOTAL_EMAILS 1000
 #define MAX_LIBRARY_WORDS 30000
 #define MAX_WORD_SIZE 400
 
@@ -14,6 +13,7 @@
 
 #define HAM 0
 #define SPAM 1
+#define TEST 2
 
 typedef struct dirent Dirent_t;
 
@@ -82,6 +82,25 @@ void read_email(char* email, Library* library, int spam_or_ham);
 
 void write_library(Library* lib, const char* path);
 
+typedef struct Classification {
+    char* email;
+    float spam_value;
+    float ham_value;
+    int ham_or_spam_or_test;
+    int ham_or_spam_classifier;
+} Classification;
 
+typedef struct Report {
+    Classification* report_repo[TOTAL_EMAILS];
+    int num_classifications;
+} Report;
+
+Classification* create_classification(Library* lib, char* email_path, int truth);
+
+Report* create_report();
+
+void print_report(Report* report);
+
+void write_report(Report* report, const char* report_path);
 
 #endif //SPAMFILTER_H

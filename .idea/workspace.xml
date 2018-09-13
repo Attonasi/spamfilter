@@ -12,1125 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea5d602-cc00-42cf-8a8d-e8e070d759b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/library/library.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/spamfilter.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/spamfilter.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/spamfilter.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/1.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/100.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/101.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/102.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/104.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/105.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/110.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/111.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/114.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/118.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/119.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/123.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/124.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/126.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/128.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/13.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/134.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/135.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/139.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/140.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/145.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/148.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/150.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/153.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/155.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/156.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/158.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/159.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/16.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/161.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/163.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/165.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/17.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/170.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/171.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/173.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/175.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/176.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/177.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/178.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/179.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/181.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/182.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/184.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/185.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/186.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/187.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/188.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/189.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/19.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/190.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/195.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/196.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/199.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/200.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/201.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/203.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/206.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/207.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/209.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/21.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/210.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/211.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/213.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/215.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/216.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/217.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/218.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/220.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/223.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/226.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/23.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/232.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/235.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/236.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/237.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/238.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/239.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/24.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/240.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/241.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/247.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/248.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/253.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/254.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/255.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/258.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/259.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/26.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/263.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/264.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/265.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/267.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/268.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/270.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/272.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/273.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/274.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/277.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/278.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/280.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/282.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/284.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/285.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/287.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/288.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/290.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/291.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/293.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/297.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/298.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/3.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/30.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/301.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/304.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/308.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/309.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/311.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/312.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/313.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/315.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/317.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/320.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/327.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/329.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/33.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/331.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/335.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/337.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/338.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/339.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/34.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/340.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/341.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/343.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/344.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/346.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/350.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/353.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/358.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/36.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/360.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/361.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/362.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/364.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/366.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/368.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/372.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/375.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/377.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/38.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/382.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/384.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/386.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/388.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/389.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/39.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/390.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/393.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/396.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/397.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/399.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/4.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/401.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/403.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/405.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/408.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/409.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/412.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/414.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/415.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/417.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/42.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/422.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/427.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/428.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/429.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/431.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/433.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/435.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/436.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/437.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/438.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/44.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/440.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/441.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/446.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/448.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/450.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/453.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/455.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/459.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/46.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/461.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/462.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/463.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/465.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/467.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/468.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/470.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/471.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/473.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/474.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/476.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/477.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/480.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/481.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/482.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/483.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/485.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/486.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/488.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/49.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/491.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/492.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/493.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/494.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/496.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/498.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/499.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/50.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/500.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/501.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/502.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/507.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/509.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/51.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/510.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/511.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/513.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/514.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/516.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/519.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/52.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/521.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/522.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/523.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/524.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/525.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/528.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/530.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/532.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/534.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/538.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/542.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/544.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/545.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/546.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/547.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/548.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/549.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/55.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/551.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/554.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/555.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/56.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/560.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/562.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/567.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/568.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/569.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/570.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/576.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/577.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/580.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/581.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/582.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/584.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/587.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/590.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/592.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/593.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/594.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/596.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/598.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/599.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/602.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/605.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/606.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/608.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/61.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/610.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/612.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/616.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/618.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/619.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/621.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/623.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/624.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/625.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/626.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/627.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/628.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/629.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/630.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/631.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/635.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/636.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/639.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/640.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/642.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/643.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/644.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/646.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/647.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/649.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/651.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/654.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/658.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/66.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/660.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/662.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/664.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/667.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/668.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/669.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/673.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/674.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/675.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/678.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/679.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/680.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/681.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/683.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/684.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/685.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/686.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/687.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/688.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/689.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/69.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/690.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/692.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/693.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/697.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/698.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/699.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/7.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/702.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/703.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/705.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/707.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/708.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/709.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/710.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/711.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/713.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/714.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/72.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/721.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/723.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/725.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/728.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/730.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/733.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/735.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/736.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/737.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/738.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/74.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/740.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/742.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/743.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/745.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/749.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/75.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/751.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/753.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/754.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/756.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/758.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/760.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/761.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/764.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/767.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/768.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/772.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/774.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/775.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/776.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/777.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/778.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/780.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/782.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/783.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/784.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/789.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/79.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/794.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/796.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/799.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/8.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/803.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/804.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/809.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/810.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/816.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/817.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/819.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/82.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/824.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/825.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/826.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/830.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/832.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/834.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/835.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/836.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/839.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/84.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/840.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/841.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/843.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/845.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/85.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/850.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/851.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/854.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/856.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/858.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/86.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/860.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/864.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/867.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/868.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/870.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/871.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/872.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/873.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/874.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/875.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/878.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/881.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/884.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/885.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/886.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/89.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/890.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/891.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/892.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/894.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/895.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/897.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/898.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/90.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/902.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/903.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/904.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/905.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/906.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/908.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/911.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/912.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/914.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/917.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/922.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/923.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/925.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/926.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/927.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/928.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/929.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/93.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/931.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/932.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/935.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/936.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/937.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/94.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/943.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/944.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/946.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/947.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/949.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/95.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/951.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/952.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/953.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/956.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/957.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/958.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/959.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/96.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/962.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/965.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/966.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/967.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/968.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/969.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/972.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/973.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/974.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/977.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/978.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/982.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/987.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/988.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/99.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/990.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/ham/991.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/10.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/1000.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/103.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/106.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/107.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/108.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/109.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/11.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/112.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/113.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/115.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/116.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/117.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/12.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/120.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/121.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/122.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/125.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/127.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/129.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/130.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/131.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/132.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/133.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/136.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/137.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/138.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/14.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/141.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/142.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/143.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/144.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/146.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/147.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/149.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/15.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/151.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/152.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/154.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/157.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/160.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/162.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/164.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/166.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/167.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/168.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/169.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/172.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/174.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/18.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/180.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/183.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/191.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/192.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/193.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/194.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/197.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/198.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/2.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/20.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/202.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/204.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/205.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/208.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/212.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/214.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/219.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/22.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/221.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/222.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/224.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/225.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/227.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/228.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/229.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/230.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/231.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/233.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/234.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/242.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/243.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/244.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/245.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/246.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/249.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/25.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/250.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/251.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/252.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/256.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/257.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/260.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/261.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/262.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/266.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/269.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/27.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/271.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/275.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/276.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/279.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/28.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/281.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/283.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/286.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/289.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/29.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/292.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/294.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/295.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/296.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/299.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/300.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/302.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/303.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/305.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/306.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/307.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/31.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/310.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/314.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/316.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/318.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/319.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/32.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/321.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/322.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/323.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/324.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/325.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/326.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/328.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/330.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/332.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/333.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/334.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/336.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/342.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/345.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/347.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/348.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/349.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/35.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/351.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/352.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/354.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/355.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/356.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/357.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/359.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/363.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/365.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/367.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/369.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/37.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/370.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/371.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/373.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/374.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/376.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/378.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/379.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/380.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/381.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/383.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/385.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/387.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/391.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/392.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/394.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/395.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/398.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/40.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/400.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/402.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/404.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/406.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/407.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/41.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/410.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/411.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/413.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/416.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/418.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/419.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/420.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/421.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/423.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/424.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/425.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/426.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/43.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/430.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/432.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/434.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/439.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/442.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/443.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/444.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/445.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/447.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/449.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/45.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/451.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/452.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/454.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/456.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/457.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/458.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/460.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/464.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/466.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/469.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/47.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/472.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/475.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/478.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/479.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/48.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/484.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/487.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/489.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/490.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/495.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/497.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/5.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/503.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/504.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/505.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/506.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/508.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/512.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/515.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/517.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/518.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/520.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/526.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/527.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/529.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/53.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/531.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/533.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/535.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/536.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/537.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/539.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/54.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/540.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/541.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/543.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/550.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/552.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/553.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/556.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/557.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/558.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/559.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/561.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/563.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/564.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/565.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/566.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/57.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/571.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/572.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/573.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/574.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/575.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/578.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/579.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/58.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/583.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/585.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/586.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/588.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/589.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/59.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/591.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/595.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/597.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/6.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/60.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/600.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/601.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/603.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/604.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/607.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/609.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/611.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/613.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/614.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/615.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/617.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/62.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/620.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/622.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/63.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/632.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/633.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/634.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/637.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/638.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/64.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/641.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/645.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/648.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/65.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/650.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/652.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/653.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/655.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/656.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/657.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/659.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/661.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/663.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/665.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/666.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/67.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/670.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/671.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/672.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/676.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/677.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/68.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/682.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/691.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/694.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/695.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/696.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/70.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/700.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/701.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/704.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/706.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/71.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/712.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/715.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/716.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/717.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/718.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/719.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/720.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/722.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/724.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/726.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/727.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/729.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/73.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/731.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/732.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/734.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/739.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/741.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/744.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/746.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/747.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/748.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/750.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/752.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/755.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/757.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/759.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/76.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/762.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/763.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/765.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/766.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/769.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/77.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/770.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/771.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/773.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/779.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/78.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/781.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/785.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/786.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/787.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/788.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/790.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/791.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/792.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/793.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/795.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/797.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/798.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/80.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/800.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/801.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/802.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/805.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/806.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/807.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/808.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/81.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/811.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/812.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/813.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/814.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/815.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/818.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/820.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/821.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/822.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/823.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/827.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/828.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/829.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/83.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/831.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/833.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/837.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/838.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/842.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/844.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/846.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/847.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/848.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/849.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/852.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/853.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/855.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/857.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/859.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/861.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/862.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/863.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/865.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/866.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/869.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/87.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/876.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/877.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/879.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/88.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/880.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/882.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/883.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/887.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/888.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/889.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/893.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/896.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/899.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/9.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/900.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/901.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/907.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/909.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/91.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/910.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/913.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/915.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/916.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/918.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/919.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/92.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/920.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/921.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/924.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/930.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/933.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/934.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/938.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/939.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/940.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/941.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/942.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/945.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/948.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/950.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/954.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/955.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/960.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/961.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/963.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/964.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/97.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/970.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/971.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/975.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/976.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/979.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/98.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/980.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/981.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/983.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/984.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/985.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/986.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/989.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/992.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/993.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/994.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/995.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/996.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/997.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/998.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/spam/999.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/1.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/10.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/100.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/11.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/12.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/13.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/14.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/15.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/16.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/17.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/18.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/19.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/2.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/20.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/21.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/22.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/23.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/24.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/25.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/26.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/27.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/28.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/29.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/3.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/30.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/31.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/32.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/33.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/34.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/35.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/36.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/37.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/38.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/39.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/4.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/40.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/41.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/42.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/43.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/44.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/45.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/46.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/47.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/48.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/49.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/5.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/50.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/51.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/52.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/53.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/54.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/55.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/56.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/57.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/58.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/59.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/6.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/60.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/61.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/62.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/63.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/64.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/65.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/66.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/67.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/68.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/69.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/7.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/70.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/71.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/72.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/73.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/74.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/75.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/76.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/77.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/78.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/79.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/8.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/80.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/81.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/82.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/83.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/84.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/85.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/86.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/87.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/88.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/89.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/9.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/90.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/91.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/92.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/93.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/94.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/95.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/96.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/97.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/98.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/data/test/99.words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/library/library.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/spamtrainer.c" beforeDir="false" afterPath="$PROJECT_DIR$/spamfilter.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/spamtrainer.h" beforeDir="false" afterPath="$PROJECT_DIR$/spamfilter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainer/trainer_main.c" beforeDir="false" afterPath="$PROJECT_DIR$/filter_main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier.c" beforeDir="false" afterPath="$PROJECT_DIR$/classifier.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classifier.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter_main.c" beforeDir="false" afterPath="$PROJECT_DIR$/filter_main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spamfilter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spamfilter.h" beforeDir="false" afterPath="$PROJECT_DIR$/spamfilter.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1227,39 +116,41 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Makefile" value="2" />
-          <entry key="c" value="11" />
-          <entry key="h" value="4" />
+          <entry key="c" value="14" />
+          <entry key="gitignore" value="1" />
+          <entry key="h" value="5" />
           <entry key="txt" value="1" />
           <entry key="words" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ObjectiveC" value="15" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="ObjectiveC" value="19" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Doxygen file" value="5" />
-          <entry key="ObjectiveC" value="4401" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="ObjectiveC" value="5694" />
+          <entry key="PLAIN_TEXT" value="103" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Makefile" value="33" />
-          <entry key="c" value="2709" />
-          <entry key="h" value="1697" />
+          <entry key="Makefile" value="80" />
+          <entry key="c" value="3720" />
+          <entry key="gitignore" value="23" />
+          <entry key="h" value="1979" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.cidr.testingFrameworks.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.720483">
+    <splitter split-orientation="horizontal" split-proportion="0.72293943">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.58173966">
+        <splitter split-orientation="horizontal" split-proportion="0.5944828">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="false">
@@ -1271,23 +162,14 @@
                   </provider>
                 </entry>
               </file>
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/spamfilter.c">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="360">
-                      <caret line="141" column="13" lean-forward="true" selection-start-line="141" selection-start-column="13" selection-end-line="141" selection-end-column="13" />
-                      <folding>
-                        <element signature="e#0#19#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
               <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/spamfilter.h">
+                <entry file="file://$PROJECT_DIR$/classifier.c">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="555">
-                      <caret line="37" selection-start-line="37" selection-end-line="37" />
+                    <state relative-caret-position="615">
+                      <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+                      <folding>
+                        <element signature="e#39#58#0" expanded="true" />
+                      </folding>
                     </state>
                   </provider>
                 </entry>
@@ -1296,11 +178,32 @@
           </split-first>
           <split-second>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/classifier.h">
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="405">
-                      <caret line="27" selection-start-line="27" selection-end-line="27" />
+                    <state relative-caret-position="75">
+                      <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/spamfilter.h">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="435">
+                      <caret line="83" selection-start-line="83" selection-end-line="83" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/spamfilter.c">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="690">
+                      <caret line="146" column="28" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
+                      <folding>
+                        <element signature="e#0#19#0" expanded="true" />
+                      </folding>
                     </state>
                   </provider>
                 </entry>
@@ -1314,17 +217,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spamfilter.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="26">
-                  <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
+                <state relative-caret-position="435">
+                  <caret line="91" selection-start-line="91" selection-end-line="91" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/filter_main.c">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+                <state relative-caret-position="525">
+                  <caret line="35" column="73" lean-forward="true" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
                   <folding>
                     <element signature="e#0#19#0" expanded="true" />
                   </folding>
@@ -1335,22 +238,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Makefile">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+                <state relative-caret-position="210">
+                  <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/classifier.c">
-              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/library/library.txt">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1365">
-                  <caret line="91" column="35" lean-forward="true" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+                  <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -1381,10 +279,13 @@
         <option value="$PROJECT_DIR$/trainer/spamtrainer.h" />
         <option value="$PROJECT_DIR$/trainer/trainer_main.c" />
         <option value="$PROJECT_DIR$/trainer/spamtrainer.c" />
-        <option value="$PROJECT_DIR$/filter_main.c" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/classifier.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/classifier.c" />
         <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/spamfilter.h" />
-        <option value="$PROJECT_DIR$/classifier.h" />
+        <option value="$PROJECT_DIR$/filter_main.c" />
       </list>
     </option>
   </component>
@@ -1395,10 +296,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="758" />
+    <option name="x" value="839" />
     <option name="y" value="24" />
-    <option name="width" value="2471" />
-    <option name="height" value="915" />
+    <option name="width" value="2249" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -1414,6 +315,11 @@
             <path>
               <item name="spamfilter" type="b2602c69:ProjectViewProjectNode" />
               <item name="spamfilter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spamfilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spamfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spamfilter" type="b2602c69:ProjectViewProjectNode" />
@@ -1482,22 +388,22 @@
       <workItem from="1536622067926" duration="7779000" />
       <workItem from="1536644870225" duration="21781000" />
       <workItem from="1536709375240" duration="10000000" />
-      <workItem from="1536816867481" duration="3295000" />
+      <workItem from="1536816867481" duration="13584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59380000" />
+    <option name="totallyTimeSpent" value="69669000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="758" y="24" width="2471" height="915" extended-state="4" />
+    <frame x="839" y="24" width="2249" height="944" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07793815" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0857921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965687" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -1560,13 +466,6 @@
     <entry file="file://$PROJECT_DIR$/data/ham/39.words">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spamfilter.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1584,48 +483,38 @@
     <entry file="file://$PROJECT_DIR$/filter_main.c">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/library.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
-          <caret line="91" column="35" lean-forward="true" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
+          <caret line="91" column="35" selection-start-line="91" selection-start-column="35" selection-end-line="91" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spamfilter.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="141" column="13" lean-forward="true" selection-start-line="141" selection-start-column="13" selection-end-line="141" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classifier.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spamfilter.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="44" column="28" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filter_main.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        <state relative-caret-position="690">
+          <caret line="146" column="28" selection-start-line="146" selection-start-column="28" selection-end-line="146" selection-end-column="28" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -1633,7 +522,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/classifier.c">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spamfilter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filter_main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="73" lean-forward="true" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

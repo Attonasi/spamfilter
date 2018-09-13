@@ -3,4 +3,4 @@ project(spamfilter C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(spamfilter filter_main.c classifier.c classifier.h)
+add_executable(spamfilter filter_main.c classifier.c)
