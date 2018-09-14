@@ -103,4 +103,6 @@ void print_report(Report* report);
 
 void write_report(Report* report, const char* report_path);
 
+void write_assignment_format(Report* report, const char* assignment_path);
+
 #endif //SPAMFILTER_H

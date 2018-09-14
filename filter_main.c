@@ -11,6 +11,8 @@ int main(int argc, char const *argv[]) {
     const char* ham_dir = argv[DATA_DIRECTORY_HAM_POS];
     const char* lib_path = "./library/library.txt";
     const char* report_path = "./library/report.txt";
+    const char* assignment_path = "./library/assignment1.txt";
+
 
     char* spam_files[MAX_NUM_FILES];
     char* ham_files[MAX_NUM_FILES];
@@ -23,7 +25,7 @@ int main(int argc, char const *argv[]) {
 
 //    char option;
 
-    for(int i = 0; i < 20; i++){
+    for(int i = 0; i < MAX_NUM_FILES; i++){
         read_email(spam_files[i], lib, SPAM);
         read_email(ham_files[i], lib, HAM);
 //        printf("Spam File: %s Ham File: %s Num_lib_words: %d i: %d\n", spam_files[i], ham_files[i], lib->num_lib_words, i);
@@ -48,13 +50,19 @@ int main(int argc, char const *argv[]) {
 
 //    print_report(rep);
     write_report(rep, report_path);
+    write_assignment_format(rep, assignment_path);
 
-    write_library(lib, lib_path);
 //    print_lib(lib);
-//  FREE STUFF END TRAINER
+    write_library(lib, lib_path);
+
+//  FREE STUFF END FILTER
     for(int i = 0; i < lib->num_lib_words; i++){
-//        free(lib->library[i]);
+        free(lib->library[i]);
     }
     free(lib);
+    for(int i = 0; i < TOTAL_EMAILS; i++){
+        free(rep->report_repo[i]);
+    }
+    free(rep);
     return 0;
 }
