@@ -1,4 +1,4 @@
-filter_files = spamfilter.h filter_main.c classifier.c spamfilter.c
+filter_files = spamfilter.h classifier.c spamfilter.c filter_main.c
 
 cFlags = -Wall -Werror
 
@@ -7,7 +7,7 @@ targets = spamfilter
 all: $(targets)
 
 spamfilter: $(filter_files)
-	gcc -o spamfilter $(filter_files) $(cFlags)
+	gcc -o spamfilter $(cFlags) $(filter_files)
 
 run_filter: spamfilter
 	./spamfilter ./data/spam ./data/ham

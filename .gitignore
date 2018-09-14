@@ -1,3 +1,5 @@
 spamtrainer
 .idea
 cmake-build-debug
+library.txt
+report.txt

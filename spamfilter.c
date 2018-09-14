@@ -157,6 +157,7 @@ void read_email(char* email, Library* lib, int spam_or_ham)
 void write_library(Library* lib, const char* path){
 
     FILE* fp = fopen(path, "w");
+    if(!fp) printf("File not Found\n");
 
     for(int i = 0; i < lib->num_lib_words; i++){
         fprintf(fp, "%d,%d,%d,%d,%d,%.3f,%.3f,%s\n", lib->library[i]->index, lib->library[i]->spam_count,

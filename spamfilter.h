@@ -5,6 +5,7 @@
 #define TOTAL_EMAILS 1000
 #define MAX_LIBRARY_WORDS 30000
 #define MAX_WORD_SIZE 400
+#define EMAIL_PATH_SIZE 30
 
 #define NEW_LINE 10
 
@@ -36,6 +37,18 @@ typedef struct Library{
     int lib_compare;
 } Library;
 
+typedef struct Classification {
+    char email[EMAIL_PATH_SIZE];
+    float spam_value;
+    float ham_value;
+    int ham_or_spam_or_test;
+    int ham_or_spam_classifier;
+} Classification;
+
+typedef struct Report {
+    Classification* report_repo[TOTAL_EMAILS];
+    int num_classifications;
+} Report;
 
 /**
 This function takes a pointer to a directory and creates a list of filenames
@@ -81,19 +94,6 @@ void print_lib(Library* lib);
 void read_email(char* email, Library* library, int spam_or_ham);
 
 void write_library(Library* lib, const char* path);
-
-typedef struct Classification {
-    char* email;
-    float spam_value;
-    float ham_value;
-    int ham_or_spam_or_test;
-    int ham_or_spam_classifier;
-} Classification;
-
-typedef struct Report {
-    Classification* report_repo[TOTAL_EMAILS];
-    int num_classifications;
-} Report;
 
 Classification* create_classification(Library* lib, char* email_path, int truth);
 
