@@ -39,8 +39,8 @@ typedef struct Library{
 
 typedef struct Classification {
     char email[EMAIL_PATH_SIZE];
-    float spam_value;
-    float ham_value;
+    double spam_value;
+    double ham_value;
     int ham_or_spam_or_test;
     int ham_or_spam_classifier;
 } Classification;

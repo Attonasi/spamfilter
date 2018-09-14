@@ -10,13 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea5d602-cc00-42cf-8a8d-e8e070d759b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classifier.c" beforeDir="false" afterPath="$PROJECT_DIR$/classifier.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter_main.c" beforeDir="false" afterPath="$PROJECT_DIR$/filter_main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library/library.txt" beforeDir="false" afterPath="$PROJECT_DIR$/library/library.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spamfilter.c" beforeDir="false" afterPath="$PROJECT_DIR$/spamfilter.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spamfilter" beforeDir="false" afterPath="$PROJECT_DIR$/spamfilter" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spamfilter.h" beforeDir="false" afterPath="$PROJECT_DIR$/spamfilter.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -65,57 +63,58 @@
       <usages-collector id="statistics.cidr.testingFrameworks.usages" />
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="-419996594">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Makefile" value="4" />
+          <entry key="c" value="110" />
+          <entry key="h" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="117" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project" />
+      <usages-collector id="statistics.cidr.testingFrameworks.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6663797">
+    <splitter split-orientation="horizontal" split-proportion="0.7537239">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.42340013">
+        <splitter split-orientation="horizontal" split-proportion="0.5944828">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="75">
-                      <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+                      <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/Makefile">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="210">
-                      <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/filter_main.c">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="255">
-                      <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-                      <folding>
-                        <element signature="e#0#19#0" expanded="true" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/library/library.txt">
-                  <provider selected="true" editor-type-id="text-editor" />
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/classifier.c">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="660">
-                      <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+                    <state relative-caret-position="630">
+                      <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+                      <folding>
+                        <element signature="e#39#58#0" expanded="true" />
+                      </folding>
                     </state>
                   </provider>
                 </entry>
@@ -123,8 +122,40 @@
               <file pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/library/report.txt">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="-6248">
-                      <caret line="539" column="43" selection-start-line="539" selection-start-column="43" selection-end-line="539" selection-end-column="43" />
+                    <state relative-caret-position="-2295" />
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="75">
+                      <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/spamfilter.h">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="481">
+                      <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/spamfilter.c">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="436">
+                      <caret line="128" column="5" lean-forward="true" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+                      <folding>
+                        <element signature="e#0#19#0" expanded="true" />
+                      </folding>
                     </state>
                   </provider>
                 </entry>
@@ -138,17 +169,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spamfilter.h">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="510">
-                  <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+                <state relative-caret-position="511">
+                  <caret line="52" column="3" lean-forward="true" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/spamfilter.c">
+            <entry file="file://$PROJECT_DIR$/filter_main.c">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="374">
-                  <caret line="140" column="29" lean-forward="true" selection-start-line="121" selection-start-column="4" selection-end-line="149" selection-end-column="15" />
+                <state relative-caret-position="211">
+                  <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
                   <folding>
                     <element signature="e#0#19#0" expanded="true" />
                   </folding>
@@ -157,10 +188,19 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
+            <entry file="file://$PROJECT_DIR$/Makefile">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/library/library.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1365">
+                  <caret line="91" column="27" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
                 </state>
               </provider>
             </entry>
@@ -182,12 +222,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/spamfilter.c" />
-        <option value="$PROJECT_DIR$/spamfilter.h" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/filter_main.c" />
+        <option value="$PROJECT_DIR$/spamfilter.h" />
         <option value="$PROJECT_DIR$/classifier.c" />
+        <option value="$PROJECT_DIR$/Makefile" />
       </list>
     </option>
   </component>
@@ -211,7 +251,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,12 +261,18 @@
             <path>
               <item name="spamfilter" type="b2602c69:ProjectViewProjectNode" />
               <item name="spamfilter" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spamfilter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spamfilter" type="462c0819:PsiDirectoryNode" />
               <item name="library" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,13 +325,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11336000" />
+    <option name="totallyTimeSpent" value="14708000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="2646" height="912" extended-state="4" />
+    <frame x="799" y="24" width="2249" height="944" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10653846" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0857921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -322,21 +367,7 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spamfilter.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -348,29 +379,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/library.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filter_main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1365">
+          <caret line="91" column="27" selection-start-line="91" selection-start-column="27" selection-end-line="91" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spamfilter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/report.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6248">
-          <caret line="539" column="43" selection-start-line="539" selection-start-column="43" selection-end-line="539" selection-end-column="43" />
-        </state>
+        <state relative-caret-position="-2295" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spamfilter.c">
+    <entry file="file://$PROJECT_DIR$/filter_main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="140" column="29" lean-forward="true" selection-start-line="121" selection-start-column="4" selection-end-line="149" selection-end-column="15" />
+        <state relative-caret-position="211">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -379,8 +416,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classifier.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        <state relative-caret-position="630">
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spamfilter.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="128" column="5" lean-forward="true" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

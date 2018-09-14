@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <dirent.h>
 #include <string.h>
+#include <math.h>
 
 #include "spamfilter.h"
 
@@ -47,7 +48,8 @@ Classification* create_classification(Library* lib, char* email_path, int truth)
 
             if(lib->lib_compare)
             {
-                printf("found word");
+                c->ham_value += log(lib->library[lib->lib_compare]->ham_ratio);
+                c->spam_value += log(lib->library[lib->lib_compare]->spam_ratio);
             }
 
             memset(word, 0, MAX_WORD_SIZE);
