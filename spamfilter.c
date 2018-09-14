@@ -10,6 +10,12 @@ int get_files(const char* directory, char** files){
     Dirent_t* direntPtr;
     DIR* inputFilePtr = opendir(directory);
 
+    if(inputFilePtr) {
+        printf("Directory %s opened.\n", directory);
+    } else {
+        printf("%s directory not found\n", directory);
+    }
+
     if(inputFilePtr != NULL){
         int numberOfFiles = 0;
 

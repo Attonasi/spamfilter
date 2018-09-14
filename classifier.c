@@ -85,8 +85,6 @@ void print_report(Report* rep) {
                 rep->report_repo[i]->spam_value, rep->report_repo[i]->ham_value,
                 rep->report_repo[i]->ham_or_spam_or_test, rep->report_repo[i]->ham_or_spam_classifier);
     }
-//    printf("I is:");
-
 }
 
 void write_report(Report* rep, const char* report_path) {
@@ -105,7 +103,6 @@ void write_report(Report* rep, const char* report_path) {
 
 void write_assignment_format(Report* rep, const char* assignment_path) {
 
-//    printf("Ass path: %s", assignment_path);
     FILE* fp = fopen(assignment_path, "w");
     if(!fp) printf("Assignment Report File not Found\n");
 
