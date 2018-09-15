@@ -41,8 +41,8 @@ Classification* create_classification(Library* lib, char* email_path, int truth)
 
             if(lib->lib_compare)
             {
-                c->ham_value += log(1 + lib->library[lib->lib_compare]->ham_ratio);
-                c->spam_value += log(1 + lib->library[lib->lib_compare]->spam_ratio);
+                c->ham_value += (log(1 + lib->library[lib->lib_compare]->ham_ratio));
+                c->spam_value += log(1 + lib->library[lib->lib_compare]->spam_ratio + MASSAGE_CONST);
             }
             memset(word, 0, MAX_WORD_SIZE);
             word_len = 0;
@@ -52,13 +52,23 @@ Classification* create_classification(Library* lib, char* email_path, int truth)
     }
     fclose(fp);
 
-    double cheat = .5;
-
-    if(c->spam_value + cheat > c->ham_value)
+    if(c->spam_value > c->ham_value)
     {
-        c->ham_or_spam_classifier = 1;
+        c->ham_or_spam_classifier = SPAM;
+
+        if(c->ham_or_spam_or_test == SPAM){
+            c->classification_code = CORRECT_SPAM;
+        } else {
+            c->classification_code = HAM_MARKED_SPAM;
+        }
     } else {
-        c->ham_or_spam_classifier = 0;
+        c->ham_or_spam_classifier = HAM;
+
+        if(c->ham_or_spam_or_test == HAM){
+            c->classification_code = CORRECT_HAM;
+        } else {
+            c->classification_code = SPAM_MARKED_HAM;
+        }
     }
 
     return c;
@@ -109,6 +119,11 @@ void write_assignment_format(Report* rep, const char* assignment_path) {
 
     char spam_answer_classification[5];
     char given_classification[5];
+
+    float percent_correct = (float)(rep->correct_ham + rep->correct_spam) / rep->num_classifications;
+
+    fprintf(fp, "Correct: %d %.3f  Spam marked Ham: %d  Ham marked Spam: %d\n\n", rep->correct_spam + rep->correct_ham,
+            percent_correct, rep->spam_marked_ham, rep->ham_marked_spam);
 
     fprintf(fp, "%-25s %-25s %-15s\n", "Email", "Algorithm Classification", "Given Classification");
 

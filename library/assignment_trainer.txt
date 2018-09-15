@@ -1,3 +1,5 @@
+Correct: 999 0.999  Spam marked Ham: 1  Ham marked Spam: 0
+
 Email                     Algorithm Classification  Given Classification
 ./data/spam/863.words               Spam                      Spam           
 ./data/spam/682.words               Spam                      Spam           
@@ -37,7 +39,7 @@ Email                     Algorithm Classification  Given Classification
 ./data/spam/434.words               Spam                      Spam           
 ./data/spam/164.words               Spam                      Spam           
 ./data/spam/37.words                Spam                      Spam           
-./data/spam/445.words               Ham                       Spam           
+./data/spam/445.words               Spam                      Spam           
 ./data/spam/866.words               Spam                      Spam           
 ./data/spam/266.words               Spam                      Spam           
 ./data/spam/661.words               Spam                      Spam           
@@ -53,7 +55,7 @@ Email                     Algorithm Classification  Given Classification
 ./data/spam/726.words               Spam                      Spam           
 ./data/spam/138.words               Spam                      Spam           
 ./data/spam/398.words               Spam                      Spam           
-./data/spam/348.words               Ham                       Spam           
+./data/spam/348.words               Spam                      Spam           
 ./data/spam/11.words                Spam                      Spam           
 ./data/spam/607.words               Spam                      Spam           
 ./data/spam/142.words               Spam                      Spam           
@@ -445,7 +447,7 @@ Email                     Algorithm Classification  Given Classification
 ./data/spam/718.words               Spam                      Spam           
 ./data/spam/231.words               Spam                      Spam           
 ./data/spam/497.words               Spam                      Spam           
-./data/spam/162.words               Ham                       Spam           
+./data/spam/162.words               Spam                      Spam           
 ./data/spam/752.words               Spam                      Spam           
 ./data/spam/933.words               Spam                      Spam           
 ./data/spam/169.words               Spam                      Spam           
@@ -453,7 +455,7 @@ Email                     Algorithm Classification  Given Classification
 ./data/spam/945.words               Spam                      Spam           
 ./data/spam/535.words               Spam                      Spam           
 ./data/spam/456.words               Spam                      Spam           
-./data/spam/355.words               Ham                       Spam           
+./data/spam/355.words               Spam                      Spam           
 ./data/spam/588.words               Spam                      Spam           
 ./data/spam/880.words               Spam                      Spam           
 ./data/spam/212.words               Spam                      Spam           
@@ -488,7 +490,7 @@ Email                     Algorithm Classification  Given Classification
 ./data/spam/579.words               Spam                      Spam           
 ./data/spam/787.words               Spam                      Spam           
 ./data/spam/561.words               Spam                      Spam           
-./data/spam/976.words               Ham                       Spam           
+./data/spam/976.words               Spam                      Spam           
 ./data/spam/716.words               Spam                      Spam           
 ./data/spam/981.words               Spam                      Spam           
 ./data/spam/671.words               Spam                      Spam           

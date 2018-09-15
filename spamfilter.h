@@ -7,17 +7,24 @@
 #define MAX_LIBRARY_WORDS 30000
 #define MAX_WORD_SIZE 400
 #define EMAIL_PATH_SIZE 30
-#define TEST_EMAILS 100
+#define TEST_EMAILS 50
 
 #define NEW_LINE 10
 
 #define DATA_DIRECTORY_SPAM_POS 1
 #define DATA_DIRECTORY_HAM_POS 2
-#define DATA_DIRECTORY_TEST_POS 3
+#define DATA_DIRECTORY_TEST_SPAM_POS 3
+#define DATA_DIRECTORY_TEST_HAM_POS 4
 
 #define HAM 0
 #define SPAM 1
 #define TEST 2
+#define CORRECT_HAM 1
+#define CORRECT_SPAM 2
+#define HAM_MARKED_SPAM 3
+#define SPAM_MARKED_HAM 4
+
+#define MASSAGE_CONST .14
 
 typedef struct dirent Dirent_t;
 
@@ -44,6 +51,7 @@ typedef struct Classification {
     char email[EMAIL_PATH_SIZE];
     double spam_value;
     double ham_value;
+    int classification_code;
     int ham_or_spam_or_test;
     int ham_or_spam_classifier;
 } Classification;
@@ -51,6 +59,10 @@ typedef struct Classification {
 typedef struct Report {
     Classification* report_repo[TOTAL_EMAILS];
     int num_classifications;
+    int correct_ham;
+    int correct_spam;
+    int ham_marked_spam;
+    int spam_marked_ham;
 } Report;
 
 /**

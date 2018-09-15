@@ -10,6 +10,6 @@ spamfilter: $(filter_files)
 	gcc -o spamfilter $(cFlags) $(filter_files) -lm
 
 run_filter: spamfilter
-	./spamfilter ./data/spam ./data/ham ./data/test
+	./spamfilter ./data/spam ./data/ham ./data/test/Spam ./data/test/Ham
 
 clean: rm $(targets)
