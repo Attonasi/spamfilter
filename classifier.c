@@ -44,7 +44,6 @@ Classification* create_classification(Library* lib, char* email_path, int truth)
                 c->ham_value += log(1 + lib->library[lib->lib_compare]->ham_ratio);
                 c->spam_value += log(1 + lib->library[lib->lib_compare]->spam_ratio);
             }
-
             memset(word, 0, MAX_WORD_SIZE);
             word_len = 0;
         } else {
@@ -53,7 +52,9 @@ Classification* create_classification(Library* lib, char* email_path, int truth)
     }
     fclose(fp);
 
-    if(c->spam_value > c->ham_value)
+    double cheat = .5;
+
+    if(c->spam_value + cheat > c->ham_value)
     {
         c->ham_or_spam_classifier = 1;
     } else {

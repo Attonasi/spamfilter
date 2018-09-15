@@ -4,3 +4,5 @@ cmake-build-debug
 library.txt
 report.txt
 test_report.txt
+/data/test/spam
+/data/test/ham
